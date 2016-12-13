@@ -3,7 +3,7 @@ yii2 带跳转到具体某页和共多少页的分页扩展
 
 **教程文档**
 
-你可以[点击这里](http://www.manks.top/yii2_linkpager_widget.html)查看具体详细的教程文档
+你可以[点击这里](http://www.manks.top/yii2-linkpager-widget.html)查看具体详细的教程文档
 
 **使用**
 
